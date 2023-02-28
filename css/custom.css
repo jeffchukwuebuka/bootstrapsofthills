@@ -1,0 +1,27 @@
+.navbar-nav .nav-link{
+    margin-right: 90px;
+}
+.container  .but{
+    margin-bottom: 20px;  
+}
+
+.container .nav-link active{
+    color: aliceblue;
+}
+
+.container  .navbar-nav a{
+    color: black;
+}
+.container .pad{
+    border-bottom: 1px dotted;
+}
+.container .padd{
+    border-bottom: 1px dotted;
+    margin-top: 10px ;
+}
+.container .top{
+    border: 2px solid red;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
